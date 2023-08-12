@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Hello World",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest test_hello.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}

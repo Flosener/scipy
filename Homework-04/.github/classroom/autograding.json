@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Homework NumPy",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest test_homework_numpy.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}

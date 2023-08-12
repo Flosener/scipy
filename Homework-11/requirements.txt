@@ -1,0 +1,6 @@
+Cython==0.29.23
+click==7.1.2
+nltk==3.6.2
+spacy==3.0.6
+scipy>=1.6.3
+numpy>=1.19.5

@@ -1,0 +1,6 @@
+pytest>=4
+numpy>=1.19.5
+pandas>=1.1.5
+matplotlib>=3.3.3
+plotnine>=0.7
+seaborn>=0.10
